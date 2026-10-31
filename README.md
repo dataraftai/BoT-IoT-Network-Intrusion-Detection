@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
 
 
-## 🚨 Real-Time Intrusion Detection System (ML + FastAPI + Docker)
+## 🚨 Network Intrusion Detection API (ML + FastAPI + Docker)
 
 A production-ready machine learning system for detecting malicious network traffic in real time, deployed as a scalable REST API.
 
